@@ -1,6 +1,10 @@
 # InvokeOnMainThreadAsync_Repro
 Reproduction sample for Xamarin.Forms.InvokeOnMainThreadAsync
 
+**Update**
+
+[This issue](https://github.com/xamarin/Xamarin.Forms/issues/6705) has been fixed in Xamarin.Forms v4.2.0.608146-pre1.
+
 ## Reproduction Steps, iOS
 
 1. Open `InvokeOnMainThreadAsync_Repro.sln` in Visual Studio or Visual Studio for Mac
